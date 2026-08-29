@@ -8,6 +8,19 @@ quieres comprar algo
 = Comprar bolsa > BOLSA [+bolsa, xp+1]
 = Comprar guante > GUANTE[+GUANTE, xp+5]   'otro de comentario de guion
 = Comprar gorro > GORRO[+Gorro, xp+5]   'otro de comentario de guion
+= seguir > s1
+#si
+elige
+= adios > agur
+= sigo > s2
+#s2
+vuelve a elegir
+=sigo>s3 'commmmentarioss
+=me voy>agur
+=talue>agur
+
+#s3
+has elegido bien [xp+30]
 
 
 # BOLSA
