@@ -1,21 +1,23 @@
 'archivo: aldea_charo_a1.txt
 # INICIO			'linea de comentario
-> RANDOM
-# A
-No tengo guion.
+Que quieres.
+= agua >agua [xp+1]
+= vino >vino [xp+9]
+=gaseosa >gaseosa [xp+6] 'vaya comentario
+=fanta>fanta [xp+4]
 
-# B
-Busco guionista.
+#agua
+agua pa ti. 
+#vino
+vino pa ti.
+# gaseosa
+gaseosa pa ti.
+#FAnta
+fanta pa ti
 
-# C
-No se que decirte.
 
-# D
-Pues nada.
 
-# E
-Me quedo mudo.
 
-# F
-Ya ya...
+
+
 
