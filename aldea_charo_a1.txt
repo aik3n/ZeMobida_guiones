@@ -1,19 +1,19 @@
 'archivo: aldea_charo_a1.txt
 # INICIO			'linea de comentario
 Que quieres.
-= agua >agua [xp+1]
+= agua >agua 
 = vino >vino [xp+9]
 =gaseosa >gaseosa [xp+6] 'vaya comentario
 =fanta>fanta [xp+4]
 
 #agua
-agua pa ti. 
+agua pa ti. [+agua]
 #vino
-vino pa ti.
+vino pa ti.[+vino]
 # gaseosa
-gaseosa pa ti.
+gaseosa pa ti.[+gaseosa]
 #FAnta
-fanta pa ti
+fanta pa ti[+fanta]
 
 
 
