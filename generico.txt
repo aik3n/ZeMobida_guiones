@@ -1,29 +1,21 @@
-'archivo: generico.txt
-# INICIO
-
-'Estás en una encrucijada.
+'archivo: aldea_charo_a1.txt
+# INICIO			'linea de comentario
 > RANDOM
-'1 Seguir adelante > RANDOM
+# A
+No tengo guion.
 
+# B
+Busco guionista.
 
-# BOSQUE
-Has llegado al bosque.
-= Entrar > AGUR
+# C
+No se que decirte.
 
-# CUEVA
-Has encontrado una cueva.
-'1 Entrar > AGUR
+# D
+Pues nada.
 
-# CASTILLO
-Ante ti aparece un castillo.
-'1 Entrar > AGUR
+# E
+Me quedo mudo.
 
-# NAVE
-Ante ti aparece un nave.
+# F
+Ya ya...
 
-
-# CASA
-Ante ti aparece un casa.
-
-# AGUR
-agur.
