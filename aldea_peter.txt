@@ -1,0 +1,8 @@
+# INICIO			'linea de comentario
+Hola, soy pedrusco.
+
+= agur > AGUR [+pocion, xp+50]
+= AH! vale, agur > AGUR [+pocion, xp-50]   'otro de comentario de guion
+
+# AGUR
+Fin de la aventura.

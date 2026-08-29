@@ -1,0 +1,29 @@
+'archivo: aldea_charo_a1.txt
+# INICIO			'linea de comentario
+Hola, aventurero, soy charo.
+quieres comprar algo
+
+?avion ?tren > TODO ' condiciones inventario, salta automaticamente a #TODO
+
+= Comprar avion > AVION [+AvioN, xp+1]
+= Comprar tren > TREN[+TrEn, xp+5]   'otro de comentario de guion
+
+# AVION
+Aqui tienes tu bolsa..
+
+= agur > AGUR
+= comprar mas > INICIO
+
+# TREN
+Aqui tienes tu GUANTE..
+
+= agur > AGUR
+= comprar mas > INICIO
+
+# TODO
+¡Ya tienes todo!
+
+= Salir > AGUR
+
+# AGUR
+Agur.
