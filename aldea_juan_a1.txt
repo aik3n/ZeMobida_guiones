@@ -9,7 +9,7 @@ quieres comprar algo
 = Comprar guante > GUANTE[+GUANTE, xp+5]   'otro de comentario de guion
 = Comprar gorro > GORRO[+Gorro, xp+5]   'otro de comentario de guion
 = seguir > s1
-#si
+#s1
 elige
 = adios > agur
 = sigo > s2
