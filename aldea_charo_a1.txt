@@ -1,29 +1,21 @@
 'archivo: aldea_charo_a1.txt
 # INICIO			'linea de comentario
-Hola, aventurero, soy charo.
-quieres comprar algo
+> RANDOM
+# A
+No tengo guion.
 
-?avion ?tren > TODO ' condiciones inventario, salta automaticamente a #TODO
+# B
+Busco guionista.
 
-= Comprar avion > AVION [+AvioN, xp+1]
-= Comprar tren > TREN[+TrEn, xp+5]   'otro de comentario de guion
+# C
+No se que decirte.
 
-# AVION
-Aqui tienes tu bolsa..
+# D
+Pues nada.
 
-= agur > AGUR
-= comprar mas > INICIO
+# E
+Me quedo mudo.
 
-# TREN
-Aqui tienes tu GUANTE..
+# F
+Ya ya...
 
-= agur > AGUR
-= comprar mas > INICIO
-
-# TODO
-¡Ya tienes todo!
-
-= Salir > AGUR
-
-# AGUR
-Agur.
