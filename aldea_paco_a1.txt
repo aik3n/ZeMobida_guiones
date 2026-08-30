@@ -4,6 +4,9 @@ Hola, aventurero, soy Paco.
 no soy un aventurevo,
 vivo siempre aqui
 dime,
+ya que has venido
+y estas aqui
+entonces
 quieres comprar algo
 
 ?avion ?tren > TODO ' condiciones inventario, salta automaticamente a #TODO
