@@ -1,6 +1,6 @@
 'archivo: aldea_charo_a1.txt
 # INICIO			'linea de comentario
-Hola, aventurero, soy charo.
+Hola, aventurero, soy ibon.
 quieres comprar algo
 
 ?avion ?tren > TODO ' condiciones inventario, salta automaticamente a #TODO
