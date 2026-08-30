@@ -1,6 +1,9 @@
 'archivo: aldea_charo_a1.txt
 # INICIO			'linea de comentario
 Hola, aventurero, soy Paco.
+no soy un aventurevo,
+vivo siempre aqui
+dime,
 quieres comprar algo
 
 ?avion ?tren > TODO ' condiciones inventario, salta automaticamente a #TODO
