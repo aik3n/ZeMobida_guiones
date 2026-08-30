@@ -3,7 +3,7 @@
 Hola, aventurero, soy ibon.
 quieres comprar algo
 
-?avion ?tren > TODO ' condiciones inventario, salta automaticamente a #TODO
+?avion ?tren ?ala > TODO ' condiciones inventario, salta automaticamente a #TODO
 
 = Comprar avion > AVION [+AvioN, xp+1]
 = Comprar tren > TREN[+TrEn, xp+5]   'otro de comentario de guion
