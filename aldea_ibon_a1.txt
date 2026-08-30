@@ -1,4 +1,4 @@
-'archivo: aldea_charo_a1.txt
+'archivo: aldea_ibon_a1.txt
 # INICIO			'linea de comentario
 Hola, aventurero, soy ibon.
 quieres comprar algo
