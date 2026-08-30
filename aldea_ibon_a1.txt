@@ -7,6 +7,9 @@ quieres comprar algo
 
 = Comprar avion > AVION [+AvioN, xp+1]
 = Comprar tren > TREN[+TrEn, xp+5]   'otro de comentario de guion
+= comprar cosas > agur [+cosa1, +cosa2, +cosa3,+cosa4,-xp-32] ' comprar varias cosas
+= vender cosas > agur [-cosa1, -cosa2, -cosa3,-cosa4,+xp-32] ' comprar varias cosas
+
 
 # AVION
 Aqui tienes tu bolsa..
