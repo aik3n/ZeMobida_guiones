@@ -1,6 +1,7 @@
 # INICIO			'linea de comentario
 Hola, soy pedrusco.
 'modificado
+'hola
 = agur > AGUR [+pocion, xp+50]
 = AH! vale, agur > AGUR [+pocion, xp-50]   'otro de comentario de guion
 
