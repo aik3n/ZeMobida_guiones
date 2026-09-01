@@ -1,0 +1,9 @@
+Archivo: aldea_medico_a2.txt
+
+# INICIO
+Soy una medica muy maja.
+
+= Salir > FINAL
+
+# FINAL
+Adiós.
