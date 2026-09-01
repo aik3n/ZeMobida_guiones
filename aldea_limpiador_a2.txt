@@ -1,11 +1,14 @@
-# INICIO			'linea de comentario
-Hola, aventurero.
+Archivo: aldea_limpiador_a2.txt
 
-?llave > PUERTA		' condicion inventario tiene "llave", salta automaticamente a #PUERTA
-?moneda ?guante > TIENDA	' condicion inventario tiene "moneda" AND "guante", salta automaticamente a #TIENDA
+# INICIO 'linea de comentario
+Hola, aventurero,
+Soy Paco el limpiador.
+
+?llave > PUERTA ' condicion inventario tiene "llave", salta automaticamente a #PUERTA
+?moneda ?guante > TIENDA ' condicion inventario tiene "moneda" AND "guante", salta automaticamente a #TIENDA
 
 = ¿Quién eres? > QUIEN
-= Comprar poción > TIENDA [+pocion, xp+5]   'otro de comentario de guion
+= Comprar poción > TIENDA [+pocion, xp+5] 'otro de comentario de guion
 
 # QUIEN
 Soy el guardián de esta puerta.
