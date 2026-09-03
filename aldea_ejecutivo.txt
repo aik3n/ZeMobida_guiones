@@ -5,9 +5,9 @@ quieres comprar algo
 ?bolsa ?gorro ?guante > TODO ' condicion inventario tiene "llave", salta automaticamente a #PUERTA
 
 
-= Comprar bolsa > BOLSA [+bolsa, xp+1]
-= Comprar guante > GUANTE[+GUANTE, xp+5]   'otro de comentario de guion
-= Comprar gorro > GORRO[+Gorro, xp+5]   'otro de comentario de guion
+= Comprar bolsa > BOLSA [+bolsa]
+= Comprar guante > GUANTE[+GUANTE]   'otro de comentario de guion
+= Comprar gorro > GORRO[+Gorro]   'otro de comentario de guion
 = seguir > s1
 #s1
 elige
@@ -20,7 +20,7 @@ vuelve a elegir
 =talue>agur
 
 #s3
-has elegido bien [xp+30]
+has elegido bien 
 
 
 # BOLSA
