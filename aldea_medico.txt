@@ -1,4 +1,4 @@
-'archivo: aldea_charo_a1.txt
+'comentario
 # INICIO			'linea de comentario
 Hola, aventurero, soy Paco.
 no soy un aventurevo,
@@ -11,8 +11,8 @@ quieres comprar algo
 
 ?avion ?tren > TODO ' condiciones inventario, salta automaticamente a #TODO
 
-= Comprar pacp > AVION [+paco, xp+1]
-= Comprar tren > TREN[+TrEn, xp+5]   'otro de comentario de guion
+= Comprar pacp > AVION [+paco]
+= Comprar tren > TREN[+TrEn]   'otro de comentario de guion
 
 # AVION
 Aqui tienes tu bolsa..
