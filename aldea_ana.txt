@@ -1,4 +1,4 @@
-Archivo: aldea_medico_a2.txt
+'ahora si
 
 # INICIO
 Soy una medica muy maja.
