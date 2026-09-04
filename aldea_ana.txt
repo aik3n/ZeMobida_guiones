@@ -6,4 +6,4 @@ Soy una medica muy maja.
 = Salir > FINAL
 
 # FINAL
-Adiós.
+Adiós.[+___EOA___]
