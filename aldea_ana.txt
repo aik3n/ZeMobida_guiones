@@ -1,7 +1,7 @@
 'cambio
 
 # INICIO
-Soy una medica muy maja.
+Soy una medica muy alta.
 
 = Salir > FINAL
 
