@@ -1,4 +1,4 @@
-'ahora si
+'cambio
 
 # INICIO
 Soy una medica muy maja.
@@ -6,4 +6,4 @@ Soy una medica muy maja.
 = Salir > FINAL
 
 # FINAL
-Adiós.[+___EOA___]
+Adiós.
