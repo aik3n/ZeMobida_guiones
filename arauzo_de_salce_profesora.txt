@@ -1,0 +1,12 @@
+# INICIO
+Escribe aquí tu diálogo.
+que me dices?
+
+= Salir > FINAL
+= dame argo.. > algo
+
+# FINAL
+Adiós.
+
+# algo
+toma [+algo_bueno]
